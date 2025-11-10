@@ -13,10 +13,8 @@ This project contains implementation and analysis for **Ai Ethics**.
 - `.ipynb_checkpoints\AI_Ethics-checkpoint.ipynb`
 - `.ipynb_checkpoints\RT_Project - Copy-checkpoint.ipynb`
 - `.ipynb_checkpoints\RT_Project-checkpoint.ipynb`
-
 ### 🐍 Python Scripts
 - `ai_ethics.py`
-
 ## 🛠️ Technologies Used
 
 - Jupyter Notebook
@@ -26,28 +24,18 @@ This project contains implementation and analysis for **Ai Ethics**.
 ## 🚀 Getting Started
 
 ### Prerequisites
-
 ```bash
 pip install jupyter pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ### Running the Project
-
-1. Clone this repository:
+1. Clone the repo:
 ```bash
 git clone https://github.com/Jehadkhan/ai-ethics.git
 ```
-
-2. Navigate to the project directory
-3. Open Jupyter Notebook:
-```bash
-jupyter notebook
-```
-
-4. Open and run the notebook files
+2. Open Jupyter Notebook and run the files
 
 ## 👤 Author
-
 **Jehad Ur Rahman Khan**
 
 - GitHub: [@Jehadkhan](https://github.com/Jehadkhan)
@@ -56,10 +44,7 @@ jupyter notebook
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jehadkurt/)
 
 ## 📝 License
-
 This project is part of my portfolio and academic work.
 
 ---
-
 ⭐ If you find this project interesting, please give it a star!
-
